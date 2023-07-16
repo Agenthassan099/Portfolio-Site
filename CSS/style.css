@@ -1,0 +1,140 @@
+body{
+    margin:0;
+    background-color: aliceblue;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+    font-style:oblique;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header
+{
+    background-color: #dbf2fa;
+    padding: 10px;
+    
+}
+
+.header
+{
+    
+    position: relative;
+}
+
+.logo
+{
+    width: fit-content;
+    position: relative;
+    left: 50px;
+}
+
+.logo-img
+{
+    margin: 10px;
+    width: 100px;
+    position: relative;
+}
+
+.row
+{
+    position: absolute;
+    right: -1px;
+    top:26px;
+    padding: 10px;
+}
+
+.row-elements
+{
+    color:rgb(113, 214, 181);
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.top-container
+{
+    position: relative;
+    background-color: #dbf2fa;
+    padding-top: 100px;
+}
+.middle-container
+{
+    margin: 0 auto 0 auto;
+}
+.bottom-container
+{
+
+}
+
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile-pic
+{
+    background-color: #AFD3E2;
+    border-radius: 110%;
+    width: 204px;
+    margin: 21px;
+}
+
+.bio
+{
+    width:534px;
+    margin: 0 auto 0 auto;
+}
+
+.hello
+{
+    
+    color:rgb(113, 214, 181);
+    font-size: 30px;
+    margin-top: 0;
+}
+
+.skills
+{
+    
+    color:rgb(113, 214, 181);
+    font-size: 25px;
+    
+    background-color:#e2f0f5de ;
+    border-radius: 5%;
+    padding: 10px;
+}
+
+.skill-row
+{
+    color: black;
+    font-size: medium;
+}
+
+hr
+{
+    position: relative;
+    border-style:dotted none none;
+    border-width: 20px;
+    width: 83px;
+    align-items: center;
+}
